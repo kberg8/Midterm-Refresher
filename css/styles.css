@@ -1,6 +1,12 @@
 /* Stylesheet */
 
-
+footer {
+	background: #990;
+	}
+	
+	section {
+	background: red;	
+		}
 
 /* Help Class to Show Grid */
 .showgrid {
