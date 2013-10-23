@@ -1,12 +1,22 @@
 /* Stylesheet */
 
+body{
+	background: url("../img/bg.png");
+	}
+
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	}
+
 footer {
-	background: #990;
+	
 	}
 	
-	section {
-	background: red;	
-		}
+section {
+		
+	}
+	
 
 /* Help Class to Show Grid */
 .showgrid {
